@@ -9,7 +9,7 @@ export default function Home() {
                     Next.js Streaming
                 </h1>
             </div>
-            <Link href="/streaming-demo" prefetch={false}>
+            <Link href="/streaming" prefetch={false}>
                 <Button size="lg" className="cursor-pointer">
                     Streaming Demo
                 </Button>
